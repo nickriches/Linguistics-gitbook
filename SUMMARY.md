@@ -8,7 +8,7 @@
 * [Morphological representation and processing](05 - Morphological representation and processing.md)
 * [Phrases](06 - Phrases.md)
 * [Syntactic functions](07 - Syntactic Functions.md)
-* [Verbs in the driving seat](08 -Verbs in the driving seat.md)
+* [Verbs in the driving seat](08 - Verbs in the driving seat.md)
 * [Complementation versus modification](09 - Complementation versus modification.md)
 * [Sentence production models](10 - Sentence Production Models.md)
 * [Construction grammar](11 - construction grammar.md)
