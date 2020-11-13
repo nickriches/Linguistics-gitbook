@@ -57,6 +57,18 @@ Essential participants are known as 'arguments'
 1. Semantic level: roles specified by the verb
 2. Syntactic level: ordering of roles
 
+Non-essential participants are often classified as adverbials
+
+1. She beat the eggs [ with a whisk ]
+
+2. She topped the cake [ with cream ]
+
+3. She ate the bananas [ with custard ]
+
+4. She scoffed the cake [ with her best friend ]
+
+Which of the `with' phrases describe an essential participant? Could the event take place without it?
+
 ## Determining valency
 
 How do we determine **essential** participants? Those which are obligatory? We can test for obligatoriness by omitting an presumed argument, and seeing how this impacts on grammaticality
