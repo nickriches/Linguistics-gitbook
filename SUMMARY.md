@@ -12,4 +12,5 @@
 * [Complementation versus modification](09 - Complementation versus modification.md)
 * [Sentence production models](10 - Sentence Production Models.md)
 * [Construction grammar](11 - construction grammar.md)
+* [The semantics of events](12 - the semantics of events.md)
 
