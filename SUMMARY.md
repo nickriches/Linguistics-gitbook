@@ -14,4 +14,5 @@
 * [Construction grammar](11 - construction grammar.md)
 * [The semantics of events](12 - the semantics of events.md)
 * [The syntax of events](13 - the syntax of events.md)
+* [Hierarchical structure](14 - hierarchical structure.md)
 
