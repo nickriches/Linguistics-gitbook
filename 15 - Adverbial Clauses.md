@@ -102,7 +102,7 @@ Adverbial clauses are headed by linking words known as **subordinating conjuncti
 
 Subordinating conjunctions come before the clause, and the phrase which contains both the conjunction and the clause is described as the Adverbial Phrase:
 
-1. $[$ **Because** $[$ it had been raining… $_{(ADVERBIAL)~CLAUSE}$ $]$ $_{ADVERBIAL~PHRASE}$ $]$
+1. [ **Because** [ it had been raining… *ADVERBIAL CLAUSE* ] *ADVERBIAL*]
 
 Subordinating conjunctions are like little pick-up trucks! When we add a subordinating conjunction to a sentence it becomes movable, e.g.
 
