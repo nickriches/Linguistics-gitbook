@@ -20,7 +20,7 @@ We're going to be looking at these different types of clauses.
 
 Last week, we looked at adverbial clauses, these come inside an adverbial:
 
-1. $[$ When $[$ I fall in love $_{ADVERBIAL~CLAUSE}$ $]$ $_{ADVERBIAL }$ $]$ it will be forever
+1. [ When [ I fall in love ADVERBIAL CLAUSE ] ADVERBIAL ] it will be forever
 
 Dependent clauses can come inside any other syntactic function (except the Verb Complex): S, Od, Oi, Cs, Co, and Pmod
 
@@ -30,9 +30,9 @@ Dependent clauses can come inside any other syntactic function (except the Verb 
 
 Dependent clauses in Direct Object position
 
-1. Last night I dreamt [ (that) somebody loved me $_{Od}$] (the Smiths)
-2. I'll tell $[​$ you $_{Oi}​$  $]​$ $[​$ what I want $_{Od}​$  $]​$ (Spice Girls)
-3. I told $[$ you $_{Oi}$ $]$ $[$ I was ill  $_{Od}$ $]$ (Spike Milligan's Epitaph)
+1. Last night I dreamt [ (that) somebody loved me *Od* ] (the Smiths)
+2. I'll tell [​ you *Oi​*  ]​ [​ what I want *Od​* ]​ (Spice Girls)
+3. I told [ you *Oi* ] [ I was ill  *Od* ] (Spike Milligan's Epitaph)
 
 It may be easier to see that it is a Direct Object if you substitute it for the word "something" (the SOMETHING TEST!!)
 
@@ -44,8 +44,8 @@ It may be easier to see that it is a Direct Object if you substitute it for the 
 
 Clauses can also come as Subject or Object Complement
 
-1. Money, that's $[$ what I want $_{Cs}$ $]$ (Barrett Strong - Old Motown Hit)
-2. I'll name $[$ this ship $_{Od}$ $]$ $[$ whatever I want $_{Co}$ $]$ (Queen Elizabeth First (hungover))
+1. Money, that's [ what I want *Cs* ] (Barrett Strong - Old Motown Hit)
+2. I'll name [ this ship *Od* ] [ whatever I want *Co* ] (Queen Elizabeth First (hungover))
 
 Again, we can substitute the phrase with SOMETHING:
 
@@ -56,19 +56,19 @@ Again, we can substitute the phrase with SOMETHING:
 
 Here is an example of a dependent clause in subject position
 
-1. $[$ That she passed the exam $_{S}$ $]$  surprised her teacher.
+1. [ That she passed the exam $_{S}$ ]  surprised her teacher.
 
 However, it sounds a bit weird. It would be much more natural to say to move the long Subject to the end and replace it with a dummy/expletive "it":
 
-1. It surprised her teacher $[$ that she passed the exam $]$
+1. It surprised her teacher [ that she passed the exam ]
 
 Why does this happen? In English we do not like very long phrases ar the beginning of a sentence. Here is another example
 
-1. I feel about weddings $[$ the way cats feel about waterslides $]$ (Nell Frizelle, Guardian)
+1. I feel about weddings [ the way cats feel about waterslides ] (Nell Frizelle, Guardian)
 
 The phrase "the way cats feel about waterslides" has moved from its initial position:
 
-1. I feel $[$ the way cats feel about waterslides $]$ about weddings.
+1. I feel [ the way cats feel about waterslides ] about weddings.
 
 But this just doesn't work!!
 
@@ -78,15 +78,15 @@ Some researchers have suggested that there is a cross-linguistic tendency to shi
 
 A postmodifier is a phrase which comes after a noun and modifies it.
 
-1. I found the book $[$ under the sofa $]$
-2. I saw a man $[$ with the wooden leg $]$
+1. I found the book [ under the sofa ]
+2. I saw a man [ with the wooden leg ]
 
 Clauses can also come in postmodifier position
 
-1. She never gave me a reason $[$ why she arrived late $]$
-2. I didn't believe Giles' claim $[$ that Geoff ate the chocolate cake $]$
-3. I found the book $[$ that was under the sofa $]$
-4. I saw a man $[$ who had a wooden leg $]$
+1. She never gave me a reason [ why she arrived late ]
+2. I didn't believe Giles' claim [ that Geoff ate the chocolate cake ]
+3. I found the book [ that was under the sofa ]
+4. I saw a man [ who had a wooden leg ]
 
 The final two examples are "relative" clauses.
 
@@ -150,14 +150,14 @@ We can imagine the relative pronoun as "moving" to the front of the relative cla
 
 When the relative pronoun refers to the OBJECT, we have an unusual (OSV) word order:
 
-1. There's the man who$_{OBJ.}$ I$_{SUBJ.}$ saw$_{VERB}$
-2. There's the fish that$_{OBJ.}$ she$_{SUBJ.}$ ate$_{VERB}$
+1. There's the man [ who *OB* ] [ I *SUBJ.* ] [ saw *VERB* ]
+2. There's the fish [ that *OB* ] [ she *SUBJ.* ] [ ate *VERB* ]
 
 **(d) Splitting subjects from verbs**
 
 If relative clauses come in the middle of sentences they can split Subjects from Verbs
 
-1. The **man** $[$ who I saw $]$ **was** happy
+1. The **man** [ who I saw ] **was** happy
 
 This makes sentences with centre-embedded relative clauses particularly hard to process.
 

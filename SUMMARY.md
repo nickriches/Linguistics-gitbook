@@ -16,4 +16,5 @@
 * [The syntax of events](13 - the syntax of events.md)
 * [Hierarchical structure](14 - hierarchical structure.md)
 * [Adverbial clauses](15 - Adverbial Clauses.md)
+* [Other types of dependent clause](Other types of dependent clauses.md)
 
